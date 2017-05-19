@@ -65,7 +65,7 @@ MIT license.
 copyright (c) 2017 Nanjing University rights reserved.
 
 ## Contact
-More than our own work, we are excited about others using our work to advance the state of the art. If our work helps you in your work or you want to cooperate with us, please [let us know](kesun@smail.nju.edu.cn) and cite [our paper](https://cs.nju.edu.cn/ww/papers/mobicom16_ultrasound.pdf).
+More than our own work, we are excited about others using our work to advance the state of the art. If our work helps you in your work or you want to cooperate with us, please let us know (kesun@smail.nju.edu.cn) and cite [our paper](https://cs.nju.edu.cn/ww/papers/mobicom16_ultrasound.pdf).
 
 GitHub:[https://github.com/Samsonsjarkal](https://github.com/Samsonsjarkal/LLAP)
 
