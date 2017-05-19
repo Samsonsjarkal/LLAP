@@ -61,3 +61,12 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+.DS_Store
+ .DS_Store?
+ *.swp
+ ._*
+ .Spotlight-V100
+ .Trashes
+ Icon?
+ ehthumbs.db
+ Thumbs.db
