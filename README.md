@@ -63,6 +63,11 @@ MIT license.
 copyright (c) 2017 Nanjing University rights reserved.
 
 ## Contact
+More than our own work, we are excited about others using our work to advance the state of the art. If our work helps you in your work or want to cooperate with us, please [let us know](kesun@smail.nju.edu.cn) and cite [our paper](https://cs.nju.edu.cn/ww/papers/mobicom16_ultrasound.pdf).
+
 GitHub:[https://github.com/Samsonsjarkal](https://github.com/Samsonsjarkal/LLAP)
 
 Email:kesun@smail.nju.edu.cn;ww@nju.edu.cn;alexliu@cse.msu.edu
+
+## Reference
+Wei Wang, Alex X. Liu, and Ke Sun. Device-free gesture tracking using acoustic signals. In Proceedings of ACM MobiCom, 2016
