@@ -261,7 +261,7 @@ Float32 RangeFinder::CalculateDistance()
             {
                 for(int i=0;i<=1;i++)
                     mDCValue[i][f]=(1-DC_TREND*2)*mDCValue[i][f]+
-                    (mMinValue[i][f]+mMinValue[i][f])/2*DC_TREND*2;
+                    (mMinValue[i][f]+mMaxValue[i][f])/2*DC_TREND*2;
             }
             
             //prepare linear regression
@@ -449,7 +449,7 @@ void RangeFinder::RemoveDC(void)
             {
                 for(i=0;i<=1;i++)
                     mDCValue[i][f]=(1-DC_TREND)*mDCValue[i][f]+
-                    (mMinValue[i][f]+mMinValue[i][f])/2*DC_TREND;
+                    (mMinValue[i][f]+mMaxValue[i][f])/2*DC_TREND;
             }
             
         }
